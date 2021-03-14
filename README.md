@@ -5,7 +5,7 @@ I have strong knowledge of JavaScript, Node.js and backend development in a UNIX
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-alamian-6181611b3/)](https://www.linkedin.com/in/amir-alamian-6181611b3/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amirAlamian10@gmail.com)](amiralamian10@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amiralamian10@gmail.com)](amiralamian10@gmail.com)
 
 ## Stacks & Skills
 
